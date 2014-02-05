@@ -1,0 +1,16 @@
+
+.classpath
+
+.project
+
+.settings/org.codehaus.groovy.eclipse.preferences.prefs
+
+.settings/org.eclipse.core.resources.prefs
+
+.settings/org.eclipse.jdt.groovy.core.prefs
+
+.settings/org.grails.ide.eclipse.core.prefs
+
+target-eclipse/classes/.gitignore
+
+*.class

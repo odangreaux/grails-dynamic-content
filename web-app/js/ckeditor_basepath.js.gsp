@@ -1,0 +1,1 @@
+var CKEDITOR_BASEPATH = '<g:createLink controller="ckeditor" action="resources" />/';
